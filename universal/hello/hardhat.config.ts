@@ -1,12 +1,9 @@
-<<<<<<< Updated upstream
-=======
 import "./tasks/depositAndCall";
 import "./tasks/mintUSDC";
 import "./tasks/checkBalance";
 import "./tasks/deploy";
 import "./tasks/deposit";
 import "./tasks/directDeposit";
->>>>>>> Stashed changes
 import "./tasks/deploy";
 import "./tasks/solana/interact";
 import "@zetachain/localnet/tasks";
